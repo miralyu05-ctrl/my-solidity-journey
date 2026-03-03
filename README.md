@@ -1,3 +1,1 @@
-# my-solidity-journey
-# My Solidity Journey
-# my-solidity-journey
+# My Solidity Journey - Mira's Web3 Road
